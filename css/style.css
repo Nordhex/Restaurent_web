@@ -7,7 +7,7 @@
   /* Primary color */
   --color-primary: #5BB318;
   --color-primary-dark1: #005b35;
-  --color-primary-dark2: #003d24;
+  --color-primary-dark2: #74993c;
   --color-primary-dark3: #001e12;
   --color-primary-light1: #74993c;
   --color-primary-light2: #66af91;
@@ -451,6 +451,10 @@ Footer Design
 }
 .p-12{
   padding-top: 12px;
+}
+.copy-r{
+  padding-top: 30px;
+  font-size: small;
 }
 
 
